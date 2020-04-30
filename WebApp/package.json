@@ -34,7 +34,7 @@
     "font-awesome": "4.7.0",
     "geocoder": "^0.2.3",
     "image-to-base64": "^2.0.1",
-    "jquery": "3.2.1",
+    "jquery": "3.5.0",
     "jsonwebtoken": "^8.4.0",
     "jw-bootstrap-switch-ng2": "1.0.10",
     "mongoose": "^5.4.5",
